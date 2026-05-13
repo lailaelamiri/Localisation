@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GeoLogger</string>
+
+    <string name="signal_on">Signal source "%s" is now active</string>
+    <string name="signal_off">Signal source "%s" has gone offline</string>
+    <string name="signal_status">Source "%1$s" changed status to: %2$s</string>
+    <string name="snapshot_received">
+        📍 Snapshot recorded\nLat: %1$s  Lng: %2$s\nAlt: %3$s m  Accuracy: ±%4$s m
+    </string>
+    <string name="waiting_signal">Waiting for GPS signal…</string>
+    <string name="perm_needed">Location access is required to log positions.</string>
+</resources>
